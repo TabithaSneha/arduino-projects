@@ -6,8 +6,6 @@ Designed an Automatic Room Temperature Controller circuit, an Obstacle Avoiding 
 
 ## Automatic Room Temperature Controller Circuit
 
-***
-
 ### Components Used:-
 
 * Arduino Uno R3
@@ -26,8 +24,6 @@ Designed an Automatic Room Temperature Controller circuit, an Obstacle Avoiding 
 
 ## Obstacle Avoiding Robot
 
-***
-
 ### Components Used:-
 
 * Arduino Uno R3
@@ -42,8 +38,6 @@ Designed an Automatic Room Temperature Controller circuit, an Obstacle Avoiding 
 [Obstacle Avoiding Robot Tinkercad](https://www.tinkercad.com/things/kSx2e3mUi2J)
 
 ## Remote Controlled Car
-
-***
 
 ### Components Used:-
 
